@@ -1,0 +1,1 @@
+print("Kseniia Sukhovii, 4-2025")
